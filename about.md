@@ -4,12 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Seungpyo Hong. I'm a junior student majoring in CS, at Hanyang University.
+For the spring semester 2019, I'm in UT Austin as an exchange student.
 
-### More Information
+### My repo consists of...
 
-A place to include any other types of information that you'd like to include about yourself.
+* Assignments that I've done during school coursework
+* Toy codes for studying
+* My individual projects
+
+### I'm interested in...
+
+* Deep learning
+* DBMS
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+If you have any questions about me or my projects, please feel free to contact me through the email address written below.
+[Gmail](spkbk98@gmail.com)
+[University mail](cs2017030500@hanyang.ac.kr)
+> Since I don't check my university mail often, sending mails to my Gmail address is highly recommended.
